@@ -1,0 +1,14 @@
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\bin\Debug\netcoreapp2.1\Question1.deps.json
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\bin\Debug\netcoreapp2.1\Question1.runtimeconfig.json
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\bin\Debug\netcoreapp2.1\Question1.runtimeconfig.dev.json
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\bin\Debug\netcoreapp2.1\Question1.dll
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.csprojAssemblyReference.cache
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.RazorAssemblyInfo.cache
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.RazorAssemblyInfo.cs
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.AssemblyInfoInputs.cache
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.AssemblyInfo.cs
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.RazorTargetAssemblyInfo.cache
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\bin\Debug\netcoreapp2.1\Question1.pdb
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.dll
+C:\Users\Do Not Open!\Desktop\hihi\Question1\Question1\obj\Debug\netcoreapp2.1\Question1.pdb
